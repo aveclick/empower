@@ -616,9 +616,7 @@ background-color: indianred;
   .footer__1__col2 h3, .footer__1__col3 h3, .footer__1__col4 h3 {
     text-align: center;
   }
-  .footer__1__col4 {
-    padding-right: 0;
-  }
+
   .footer__1__col1 {
     padding: 0 15px;
     max-width: 500px;
