@@ -605,7 +605,6 @@ background-color: indianred;
   }
   .footer__1{
     display: block;
-    border-bottom: none;
   }
   .footer__1__col2, .footer__1__col3, .footer__1__col4 {
     padding: 20px 15px 0 15px;
