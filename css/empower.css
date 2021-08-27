@@ -635,7 +635,7 @@ background-color: indianred;
 }
 
 @media(max-width:1000px) {
-  body.lock{
+  html.lock{
     overflow: hidden;
   }
   .header__burger{
